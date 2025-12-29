@@ -1,0 +1,1076 @@
+HOJA     1 DE    25
+    0063667-T
+MONTIEL, JUAN ALBERTO            (1611)                                            SUCURSAL 068
+BOULOGNE SUR MER         2161                                                            SOLEIL
+DON TORCUATO
+                    ESTIMADOS SE¥ORES  MONTIEL, JUAN ALBERTO
+ IMPORTANTE: le recordamos que en PC Banking podrá consultar sus resúmenes online las veces que quiera sin costo
+ adicional. Si todavía no está registrado, puede hacerlo en cualquier momento con su Tipo y Número de Documento,
+ y su Clave del Centro de Atención al Cliente, ingresando a www.hsbc.com.ar
+ PRODUCTO               SUC      CUENTA              CBU                 SALDO ANTERIOR          SALDO ACTUAL
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - SALDO ANTERIOR                                                                          165,789.83 CUENTA CORRIENTE $    SLEIL  0683-25177-1  1500018300006832517714           165,789.83            711,559.82
+ CAJA DE AHORRO u$s    SLEIL  068-8-23173-6 1500018300006882317364               306.39                306.39
+ CAJA DE AHORRO $      SLEIL  068-6-21882-9 1500018300006862188296                 0.43              1,998.56
+                                           - DETALLE DE OPERACIONES -
+ 02-ENE  - TRANSF.CAJ.AUTOM C/I        00000                                  24,000.00            189,789.83
+           BCO:     CTA:401387380246             OP:197773 VAR
+           ORIGINANTE:20382544170 BARROS/ARIEL
+         - TRANSF.CAJ.AUTOM C/I        00000                                  40,749.17            230,539.00
+           BCO:     CTA:1911970143427            OP:945860 FAC
+           ORIGINANTE:20103147590 VITA DANIEL
+         - IMP. LEY 25.413             00000                   .03                                 230,538.97                                                          CUIT / CUIL / CIE 23-11046223-9  IVA RESP INSCRIP SUJETO A PERCEPCION
+                                                                          INGRESOS BRUTOS: 0              CONVENIO MULTILATERAL                    LES INFORMAMOS LOS NUEVOS PRECIOS DE LOS CARGOS Y COMISIONES MAXIMOS QUE
+                    REGIRAN A PARTIR DE MARZO DE 2024 (NO INCLUYEN IVA):
+                    CUSTODIA DE CHEQUE: ALTA $80 / RESCATE $200 / DIFERIMIENTO $200 (POR CH)
+                    CUSTODIA DE ECHEQ: ALTA $40 / RESCATE $120 (POR ECHEQ)
+                    CHEQUE RECHAZADO DE OTROS BANCOS $1243 (POR ECHEQ Y CH.); CHEQUE PROPIO
+                    RECHAZADO POR FALLA TÉCNICA $1243 (POR ECHEQ Y CH.);
+                    CHEQUE O ECHEQ RECHAZADO POR SIN FONDOS (7,7% SOBRE EL MONTO DEL MISMO),
+                    MÍNIMO $1745 (POR CH O ECHEQ);
+                    REGISTRACIÓN DE CHEQUE DE PAGO DIFERIDO $18;
+                    REGISTRACIÓN DE CHEQUE DE PAGO DIFERIDO DE NO CLIENTE $41;
+                    SALVADO DE CHEQUES CON DEFECTOS $130;
+                    REGISTRACIÓN DE CHEQUE DE PAGO DIFERIDO POR CÁMARA COMPENSADORA OTROS
+                    BANCOS $14; COMISIÓN POR CHEQUE PROPIO $54.
+                    DEPÓSITOS Y RETIROS INTERSUCURSALES  $0,40% SOBRE MONTO OPERADO,
+                    MÍNIMO $228 (POR OPER).
+                    SI DESEA MAYOR INFORMACION COMUNIQUESE CON NUESTRO CENTRO DE ATENCION
+                    A CLIENTES AL 0810-999-1010 DIAS HABILES BANCARIOS DE 10 A 17 HS O INGRESE
+                    A WWW.HSBC.COM.AR
+                                                                                            .
+                                    EXTRACTO DEL 01/01/2024 AL 31/01/2024
+                                   CUENTA CORRIENTE EN $ NRO.   0683-25177-1
+HOJA     2 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           D/IVA RED.R.I COMP          BASE       5,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                   .16                                 230,538.81
+           D/REG.REC. II COMP        0 BASE      26,46 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                   .29                                 230,538.52
+           D/INT.SALDO D COMP          BASE      47,62 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                   .44                                 230,538.08
+           D/REG.REC. II COMP        0 BASE      73,59 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 48.00                                 230,490.08
+           D/COMPRA      COMP     5012 BASE    8000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                149.17                                 230,340.91
+           D/TRANSF. ELE COMP     1978 BASE   24861,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              2,809.02                                 227,531.89
+           D/COMPRA      COMP     2080 BASE  468170,64 AL6,00P/MIL
+         - TRANSF. ELECTRONICA         03780              2,000.00                                 225,531.89
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 390356  DEBIN
+         - COMPRA                      05395             11,632.00                                 213,899.89
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 247258
+           ESTABLECIMIENTO: GRANJA PUJOL
+         - TRANSF. ELECTRONICA         09001             13,350.00                                 200,549.89
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 280379  DEBIN
+         - COMPRA                      09075             61,104.06                                 139,445.83
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 616418
+           ESTABLECIMIENTO: 3SM*SORIENTE SUPERS
+         - TRANSF. ELECTRONICA         05039             70,000.00                                  69,445.83
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 876219  DEBIN
+ 03-ENE  - DEPOSITO CHEQUES            13386                                 291,596.65            361,042.48
+           ECHEQ
+         - IMP. LEY 25.413             00000                 12.00                                 361,030.48
+           D/TRANSF. ELE COMP     3780 BASE    2000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 69.79                                 360,960.69
+           D/COMPRA      COMP     5395 BASE   11632,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 80.10                                 360,880.59
+           D/TRANSF. ELE COMP     9001 BASE   13350,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                144.00                                 360,736.59
+           C/TRANSF.CAJ. COMP 60000000 BASE   24000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                244.50                                 360,492.09
+           C/TRANSF.CAJ. COMP 38000000 BASE   40749,17 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                366.62                                 360,125.47
+           D/COMPRA      COMP     9075 BASE   61104,06 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                420.00                                 359,705.47
+           D/TRANSF. ELE COMP     5039 BASE   70000,00 AL6,00P/MIL
+HOJA     3 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - REG.REC. IIBB PROV          00000                600.00                                 359,105.47
+           IB PBA DN1/04 00L C60000000 BASE   24000,00 A25,00P/MIL
+         - REG.REC. IIBB PROV          00000              1,018.73                                 358,086.74
+           IB PBA DN1/04 00L C38000000 BASE   40749,17 A25,00P/MIL
+         - COMPRA                      04311              8,256.00                                 349,830.74
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 679011
+           ESTABLECIMIENTO: Verif. policial
+         - DEBITO AUTOMATICO           01884                389.24                                 349,441.50
+           ZURICH ASEG       PAGODIRECT CLIENTE: 112551942
+           FACT: 112551942
+ 04-ENE  - TRANSF.CAJ.AUTOM C/I        00000                                 269,673.91            619,115.41
+           BCO:HSBC CTA:6443229244               OP:835238 VAR
+           ORIGINANTE:20147856637 PACHECO,/JULIO CESAR
+         - IMP. LEY 25.413             00000                  2.34                                 619,113.07
+           D/DEBITO AUTO COMP     1884 BASE     389,24 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  3.60                                 619,109.47
+           D/REG.REC. II COMP        0 BASE     600,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  6.11                                 619,103.36
+           D/REG.REC. II COMP        0 BASE    1018,73 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 49.54                                 619,053.82
+           D/COMPRA      COMP     4311 BASE    8256,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,749.58                                 617,304.24
+           C/DEPOSITO CH COMP 48013386 BASE  291596,65 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              7,289.92                                 610,014.32
+           IB PBA DN1/04 00L C48013386 BASE  291596,65 A25,00P/MIL
+         - COMPRA                      00699              6,650.00                                 603,364.32
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 487559
+           ESTABLECIMIENTO: E S SOL EL CEPRES
+         - DEBITO AUTOMATICO           00980                191.00                                 603,173.32
+           ALLIANZ           POLIZASP   CLIENTE: MORALES, DA06832517714
+           FACT:    232100495282
+         - DEBITO AUTOMATICO           00981              1,951.00                                 601,222.32
+           ALLIANZ           POLIZASP   CLIENTE: MONTIEL, JU06832517714
+           FACT:    232100514118
+ 05-ENE  - TRANSFERENCIAS              50215                                 860,000.00          1,461,222.32
+           TIPO PROVE BCO 191 GOMEZ JA Y BUYO               30717691616
+           C10001019101970000000000000030717691616GOMEZ JA Y BUYO
+           ORIGINANTE:30717691616 GOMEZ JA Y BUYO
+         - IMP. LEY 25.413             00000                  1.15                               1,461,221.17
+           D/DEBITO AUTO COMP      980 BASE     191,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 11.71                               1,461,209.46
+           D/DEBITO AUTO COMP      981 BASE    1951,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 39.90                               1,461,169.56
+HOJA     4 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           D/COMPRA      COMP      699 BASE    6650,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 43.74                               1,461,125.82
+           D/REG.REC. II COMP        0 BASE    7289,92 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,618.04                               1,459,507.78
+           C/TRANSF.CAJ. COMP 98000000 BASE  269673,91 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              6,741.85                               1,452,765.93
+           IB PBA DN1/04 00L C98000000 BASE  269673,91 A25,00P/MIL
+         - PAGO SERVICIOS              07444              2,757.32                               1,450,008.61
+           HSBC MOBILE OPERAC.  844492
+           SERVICIO: GSNT IDENTIFICACION: 23097310
+         - TRANSF. ELECTRONICA         09428             10,000.00                               1,440,008.61
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 343631  DEBIN
+         - PAGO SERVICIOS              07102             13,310.00                               1,426,698.61
+           HSBC MOBILE OPERAC.  477990
+           SERVICIO: UNEV IDENTIFICACION: 1002628608310001
+         - PAGO SERVICIOS              08772             13,398.73                               1,413,299.88
+           HSBC MOBILE OPERAC.  610541
+           SERVICIO: UNEV IDENTIFICACION: 1003242666610001
+         - PAGO SERVICIOS              07560             14,018.13                               1,399,281.75
+           HSBC MOBILE OPERAC.  588411
+           SERVICIO: GSNT IDENTIFICACION: 02379922
+         - COMPRA                      02277             89,365.00                               1,309,916.75
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 485351
+           ESTABLECIMIENTO: MERPAGO*MASAIRE
+         - INSTRUCCION DE PAGO         00456             64,080.00                               1,245,836.75
+           C*0005014039830363765018170920389274861ENZO,ALZUETA
+         - INSTRUCCION DE PAGO         00582             96,200.00                               1,149,636.75
+           C*0005014038220363275012775220280456919LEONARDO DIEGO,
+         - DEBITO AUTOMATICO           01846             16,093.11                               1,133,543.64
+           VER TV SA         CUOTAS     CLIENTE: 85805724
+           FACT: 000000019189539
+ 08-ENE  - IMP. LEY 25.413             00000                 16.54                               1,133,527.10
+           D/PAGO SERVIC COMP     7444 BASE    2757,32 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 40.45                               1,133,486.65
+           D/REG.REC. II COMP        0 BASE    6741,85 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                               1,133,426.65
+           D/TRANSF. ELE COMP     9428 BASE   10000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 79.86                               1,133,346.79
+           D/PAGO SERVIC COMP     7102 BASE   13310,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 80.39                               1,133,266.40
+           D/PAGO SERVIC COMP     8772 BASE   13398,73 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 84.11                               1,133,182.29
+HOJA     5 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           D/PAGO SERVIC COMP     7560 BASE   14018,13 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 96.56                               1,133,085.73
+           D/DEBITO AUTO COMP     1846 BASE   16093,11 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                384.48                               1,132,701.25
+           D/INSTRUCCION COMP 48100456 BASE   64080,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                536.19                               1,132,165.06
+           D/COMPRA      COMP     2277 BASE   89365,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                577.20                               1,131,587.86
+           D/INSTRUCCION COMP 48100582 BASE   96200,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              5,160.00                               1,126,427.86
+           C/TRANSFERENC COMP    50215 BASE  860000,00 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000             21,500.00                               1,104,927.86
+           IB PBA DN1/04 00L C   50215 BASE  860000,00 A25,00P/MIL
+         - COMPRA                      05894              5,939.70                               1,098,988.16
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 575907
+           ESTABLECIMIENTO: DIA TIENDA 5388
+         - COMPRA                      03496              9,999.99                               1,088,988.17
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 573866
+           ESTABLECIMIENTO: YPF AUTOP PILAR
+         - TRANSF. ELECTRONICA         07491             23,000.00                               1,065,988.17
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 345203  DEBIN
+         - COMPRA                      02937             23,510.00                               1,042,478.17
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 501314
+           ESTABLECIMIENTO: LA REVANCHA FERRETERIA
+         - EXT.CAJ.AUTOMATICO          04824             30,000.00                               1,012,478.17
+           CAJERO AUTOMATICO Nø S1GRB057         OPERACION: 004964
+         - EXT.CAJ.AUTOMATICO          05476             30,000.00                                 982,478.17
+           CAJERO AUTOMATICO Nø S1GRB057         OPERACION: 004965
+         - EXT.CAJ.AUTOMATICO          04213             30,000.00                                 952,478.17
+           CAJERO AUTOMATICO Nø S1GRB057         OPERACION: 004963
+         - COMPRA                      04083             69,999.20                                 882,478.97
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 607061
+           ESTABLECIMIENTO: MERCPAGO*TECNOFAST
+ 09-ENE  - DEPOSITO CHEQUES            06829                                 453,772.83          1,336,251.80
+           ECHEQ
+         - IMP. LEY 25.413             00000                 35.64                               1,336,216.16
+           D/COMPRA      COMP     5894 BASE    5939,70 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                               1,336,156.16
+           D/COMPRA      COMP     3496 BASE    9999,99 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                129.00                               1,336,027.16
+           D/REG.REC. II COMP        0 BASE   21500,00 AL6,00P/MIL
+HOJA     6 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - IMP. LEY 25.413             00000                138.00                               1,335,889.16
+           D/TRANSF. ELE COMP     7491 BASE   23000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                141.06                               1,335,748.10
+           D/COMPRA      COMP     2937 BASE   23510,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                180.00                               1,335,568.10
+           D/EXT.CAJ.AUT COMP     4824 BASE   30000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                180.00                               1,335,388.10
+           D/EXT.CAJ.AUT COMP     5476 BASE   30000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                180.00                               1,335,208.10
+           D/EXT.CAJ.AUT COMP     4213 BASE   30000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                420.00                               1,334,788.10
+           D/COMPRA      COMP     4083 BASE   69999,20 AL6,00P/MIL
+         - COMPRA                      09399              2,487.00                               1,332,301.10
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 513437
+           ESTABLECIMIENTO: ESTA DE SERV DALCON SA
+         - COMPRA                      08433              6,000.00                               1,326,301.10
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 845954
+           ESTABLECIMIENTO: MERPAGO*YANFXING
+         - COMPRA                      01462              8,056.41                               1,318,244.69
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 805914
+           ESTABLECIMIENTO: JUMBO PACHECO
+         - COMPRA                      04843            104,980.00                               1,213,264.69
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 874055
+           ESTABLECIMIENTO: 3SM*SORIENTE SUPERS
+ 10-ENE  - IMP. LEY 25.413             00000                 14.92                               1,213,249.77
+           D/COMPRA      COMP     9399 BASE    2487,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 36.00                               1,213,213.77
+           D/COMPRA      COMP     8433 BASE    6000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 48.34                               1,213,165.43
+           D/COMPRA      COMP     1462 BASE    8056,41 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                629.88                               1,212,535.55
+           D/COMPRA      COMP     4843 BASE  104980,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              2,722.64                               1,209,812.91
+           C/DEPOSITO CH COMP 48106829 BASE  453772,83 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000             11,344.32                               1,198,468.59
+           IB PBA DN1/04 00L C48106829 BASE  453772,83 A25,00P/MIL
+         - COMPRA                      07437             12,044.00                               1,186,424.59
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 374983
+           ESTABLECIMIENTO: MERCADOPAGO*MUNICIPALIDAD
+         - COMPRA                      09876             58,534.00                               1,127,890.59
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 372490
+           ESTABLECIMIENTO: MERCADOPAGO*MUNICIPALIDAD
+HOJA     7 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - COMPRA                      04565             65,455.00                               1,062,435.59
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 077075
+           ESTABLECIMIENTO: MERCPAGO*MERCADOLIBRE
+         - PAGO SERVICIOS              03272            214,197.68                                 848,237.91
+           HSBC MOBILE OPERAC.  739217
+           SERVICIO: SEA  IDENTIFICACION: 2311046223911046223
+ 11-ENE  - INTERBANKING                16951                                 438,160.73          1,286,398.64
+           TIPO VARIO BCO 017 PAPELERA DON TORCUATO S.A.C.I 30502325589
+           C*0006                      30502325589PAPELERA DON TORCUAT
+         - TRANSF.CAJ.AUTOM C/I        00000                                 218,781.50          1,505,180.14
+           BCO:     CTA:00300060054849           OP:976377 FACFRA 2810
+           ORIGINANTE:30519002988 PROBA SA
+         - IMP. LEY 25.413             00000                 68.07                               1,505,112.07
+           D/REG.REC. II COMP        0 BASE   11344,32 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 72.26                               1,505,039.81
+           D/COMPRA      COMP     7437 BASE   12044,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                351.20                               1,504,688.61
+           D/COMPRA      COMP     9876 BASE   58534,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                392.73                               1,504,295.88
+           D/COMPRA      COMP     4565 BASE   65455,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,285.19                               1,503,010.69
+           D/PAGO SERVIC COMP     3272 BASE  214197,68 AL6,00P/MIL
+         - INSTRUCCION DE PAGO         90351             49,500.00                               1,453,510.69
+           C*0005072007178800003741560420267658049ALBEROTANZA ALE
+ 12-ENE  - INTERBANKING                25975                                  60,690.00          1,514,200.69
+           TIPO PROVE BCO 072 CORTESTAMP SA                 30504757087
+           C*0006                      30504757087CORTESTAMP SA
+         - IMP. LEY 25.413             00000                297.00                               1,513,903.69
+           D/INSTRUCCION COMP 48190351 BASE   49500,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,312.69                               1,512,591.00
+           C/TRANSF.CAJ. COMP 76000000 BASE  218781,50 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              2,628.96                               1,509,962.04
+           C/INTERBANKIN COMP   216951 BASE  438160,73 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              5,469.54                               1,504,492.50
+           IB PBA DN1/04 00L C76000000 BASE  218781,50 A25,00P/MIL
+         - REG.REC. IIBB PROV          00000             10,954.02                               1,493,538.48
+           IB PBA DN1/04 00L C  216951 BASE  438160,73 A25,00P/MIL
+         - TRANSF. ENTRE CUENTAS       51932            120,000.00                               1,373,538.48
+           HSBC MOBILE A CTA 0686218829 OPERACION: 2255
+           0010CA0686218829
+         - COMPRA                      06413              2,380.14                               1,371,158.34
+HOJA     8 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 316147
+           ESTABLECIMIENTO: MERCPAGO*TECNOFAST
+         - TRANSF. ELECTRONICA         08864             10,670.00                               1,360,488.34
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 346297  DEBIN
+         - COMPRA                      07859             15,000.00                               1,345,488.34
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 628674
+           ESTABLECIMIENTO: LOMAS DE ESCOBAR PETROLEO
+         - PAGO SERVICIOS              05230             25,530.39                               1,319,957.95
+           HSBC MOBILE OPERAC.  703856
+           SERVICIO: ENOR IDENTIFICACION: 004090836381
+ 15-ENE  - IMP. LEY 25.413             00000                 14.28                               1,319,943.67
+           D/COMPRA      COMP     6413 BASE    2380,14 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 32.82                               1,319,910.85
+           D/REG.REC. II COMP        0 BASE    5469,54 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 64.02                               1,319,846.83
+           D/TRANSF. ELE COMP     8864 BASE   10670,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 65.72                               1,319,781.11
+           D/REG.REC. II COMP        0 BASE   10954,02 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 90.00                               1,319,691.11
+           D/COMPRA      COMP     7859 BASE   15000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                153.18                               1,319,537.93
+           D/PAGO SERVIC COMP     5230 BASE   25530,39 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                364.14                               1,319,173.79
+           C/INTERBANKIN COMP  4125975 BASE   60690,00 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              1,517.25                               1,317,656.54
+           IB PBA DN1/04 00L C 4125975 BASE   60690,00 A25,00P/MIL
+         - TRANSF. ELECTRONICA         06285              5,900.00                               1,311,756.54
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 752838  DEBIN
+         - COMPRA                      01843              6,113.71                               1,305,642.83
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 869608
+           ESTABLECIMIENTO: JUMBO PACHECO
+         - COMPRA                      09219              8,800.00                               1,296,842.83
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 976600
+           ESTABLECIMIENTO: MERPAGO*YANFXING
+         - COMPRA                      05107              8,870.00                               1,287,972.83
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 879553
+           ESTABLECIMIENTO: FCIA NP
+         - TRANSF. ELECTRONICA         00005             10,000.00                               1,277,972.83
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 533612  DEBIN
+         - COMPRA                      00830             18,089.99                               1,259,882.84
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 555136
+           ESTABLECIMIENTO: MERPAGO*MERCADOLIBRE
+HOJA     9 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - COMPRA                      02957             25,711.60                               1,234,171.24
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 859924
+           ESTABLECIMIENTO: DROGUER*FARMACIA  PA
+         - COMPRA                      00916             30,002.47                               1,204,168.77
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 635482
+           ESTABLECIMIENTO: YPF UGARTE
+         - COMPRA                      07228             31,029.99                               1,173,138.78
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 823855
+           ESTABLECIMIENTO: MERPAGO*MERCADOLIBRE
+         - INSTRUCCION DE PAGO         67830             93,300.00                               1,079,838.78
+           C*0005017011312000000230163120162902564MENDEZ    CLAUD
+ 16-ENE  - IMP. LEY 25.413             00000                  9.10                               1,079,829.68
+           D/REG.REC. II COMP        0 BASE    1517,25 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 35.40                               1,079,794.28
+           D/TRANSF. ELE COMP     6285 BASE    5900,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 36.68                               1,079,757.60
+           D/COMPRA      COMP     1843 BASE    6113,71 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 52.80                               1,079,704.80
+           D/COMPRA      COMP     9219 BASE    8800,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 53.22                               1,079,651.58
+           D/COMPRA      COMP     5107 BASE    8870,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                               1,079,591.58
+           D/TRANSF. ELE COMP        5 BASE   10000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                108.54                               1,079,483.04
+           D/COMPRA      COMP      830 BASE   18089,99 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                154.27                               1,079,328.77
+           D/COMPRA      COMP     2957 BASE   25711,60 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                180.01                               1,079,148.76
+           D/COMPRA      COMP      916 BASE   30002,47 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                186.18                               1,078,962.58
+           D/COMPRA      COMP     7228 BASE   31029,99 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                559.80                               1,078,402.78
+           D/INSTRUCCION COMP 48267830 BASE   93300,00 AL6,00P/MIL
+         - COMPRA                      00127             10,302.38                               1,068,100.40
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 618275
+           ESTABLECIMIENTO: DT001KC
+         - TRANSF. ELECTRONICA         05914             25,000.00                               1,043,100.40
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 776064  DEBIN
+         - PAGO SERVICIOS              03854             48,577.40                                 994,523.00
+           HSBC MOBILE OPERAC.  585879
+           SERVICIO: SEA  IDENTIFICACION: 2311046223911046223
+         - DEBITO AUTOMATICO           04469              4,740.63                                 989,782.37
+HOJA    10 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           AFIP              PLANRG3806 CLIENTE: 23110462239
+           FACT: R3806I097103098
+         - DEBITO AUTOMATICO           04471              7,739.48                                 982,042.89
+           AFIP              PLANRG4816 CLIENTE: 23110462239
+           FACT: R4816N658558038
+         - DEBITO AUTOMATICO           04470              9,945.06                                 972,097.83
+           AFIP              PLANRG4816 CLIENTE: 23110462239
+           FACT: R4816N658529038
+         - DEBITO AUTOMATICO           04472             31,633.94                                 940,463.89
+           AFIP              PLANRG4816 CLIENTE: 23110462239
+           FACT: R4816O057611038
+ 17-ENE  - TRANSF.CAJ.AUTOM C/I        00000                                 101,833.60          1,042,297.49
+           BCO:     CTA:23500503019              OP:131306 FAC
+           ORIGINANTE:27258383546 ESTEVEZ/FLORENCIA
+         - IMP. LEY 25.413             00000                 28.44                               1,042,269.05
+           D/DEBITO AUTO COMP     4469 BASE    4740,63 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 46.44                               1,042,222.61
+           D/DEBITO AUTO COMP     4471 BASE    7739,48 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 59.67                               1,042,162.94
+           D/DEBITO AUTO COMP     4470 BASE    9945,06 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 61.81                               1,042,101.13
+           D/COMPRA      COMP      127 BASE   10302,38 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                150.00                               1,041,951.13
+           D/TRANSF. ELE COMP     5914 BASE   25000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                189.80                               1,041,761.33
+           D/DEBITO AUTO COMP     4472 BASE   31633,94 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                291.46                               1,041,469.87
+           D/PAGO SERVIC COMP     3854 BASE   48577,40 AL6,00P/MIL
+         - COMPRA                      00391              4,300.00                               1,037,169.87
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 215223
+           ESTABLECIMIENTO: DIA TIENDA 5388
+ 18-ENE  - DEPOSITO CHEQUES            96305                               1,102,093.40          2,139,263.27
+           ECHEQ
+         - IMP. LEY 25.413             00000                 25.80                               2,139,237.47
+           D/COMPRA      COMP      391 BASE    4300,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                611.00                               2,138,626.47
+           C/TRANSF.CAJ. COMP 11000000 BASE  101833,60 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              2,545.84                               2,136,080.63
+           IB PBA DN1/04 00L C11000000 BASE  101833,60 A25,00P/MIL
+         - TRANSF. ELECTRONICA         05015              5,000.00                               2,131,080.63
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 905138  DEBIN
+         - TRANSF. ELECTRONICA         07708              5,000.00                               2,126,080.63
+HOJA    11 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 251539  DEBIN
+         - TRANSF. ELECTRONICA         07897              5,000.00                               2,121,080.63
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 329216  DEBIN
+         - COMPRA                      08300              6,744.00                               2,114,336.63
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 347711
+           ESTABLECIMIENTO: DIA TIENDA 5388
+         - PAGO SERVICIOS              02315             14,611.48                               2,099,725.15
+           HSBC MOBILE OPERAC.  234864
+           SERVICIO: GENE IDENTIFICACION: 4195046
+         - COMPRA                      01846             20,579.99                               2,079,145.16
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 615620
+           ESTABLECIMIENTO: MERCPAGO*MERCADOLIBRE
+         - INSTRUCCION DE PAGO         23479             88,696.00                               1,990,449.16
+           C*0005011065092006500041078130560312411COL VEN SA
+ 19-ENE  - INTERBANKING                10890                                 121,375.40          2,111,824.56
+           TIPO PROVE BCO 016 FINNING ARGENTINA SA          30647227119
+           C*0006                      30647227119FINNING ARGENTINA SA
+         - IMP. LEY 25.413             00000                 15.28                               2,111,809.28
+           D/REG.REC. II COMP        0 BASE    2545,84 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                               2,111,779.28
+           D/TRANSF. ELE COMP     5015 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                               2,111,749.28
+           D/TRANSF. ELE COMP     7708 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                               2,111,719.28
+           D/TRANSF. ELE COMP     7897 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 40.46                               2,111,678.82
+           D/COMPRA      COMP     8300 BASE    6744,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 87.67                               2,111,591.15
+           D/PAGO SERVIC COMP     2315 BASE   14611,48 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                123.48                               2,111,467.67
+           D/COMPRA      COMP     1846 BASE   20579,99 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                532.18                               2,110,935.49
+           D/INSTRUCCION COMP 48323479 BASE   88696,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              6,612.56                               2,104,322.93
+           C/DEPOSITO CH COMP 48296305 BASE 1102093,40 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000             27,552.34                               2,076,770.59
+           IB PBA DN1/04 00L C48296305 BASE 1102093,40 A25,00P/MIL
+         - TRANSF. ENTRE CUENTAS       73230            800,000.00                               1,276,770.59
+           HSBC MOBILE A CTA 0686218829 OPERACION: 7256
+           0010CA0686218829
+         - PAGO SERVICIOS              01045              2,856.19                               1,273,914.40
+HOJA    12 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           HSBC MOBILE OPERAC.  515468
+           SERVICIO: GSNT IDENTIFICACION: 22592052
+         - TRANSF. ELECTRONICA         05204              4,300.00                               1,269,614.40
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 160107  DEBIN
+         - TRANSF. ELECTRONICA         06156              5,000.00                               1,264,614.40
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 801076  DEBIN
+         - TRANSF. ELECTRONICA         08215              5,360.00                               1,259,254.40
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 175326  DEBIN
+         - TRANSF. ELECTRONICA         04664              7,650.00                               1,251,604.40
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 509272  DEBIN
+         - PAGO SERVICIOS              01195             13,264.15                               1,238,340.25
+           HSBC MOBILE OPERAC.  042806
+           SERVICIO: GSNT IDENTIFICACION: 02379922
+         - PAGO SERVICIOS              00727             14,868.62                               1,223,471.63
+           HSBC MOBILE OPERAC.  575533
+           SERVICIO: GENE IDENTIFICACION: 4223014
+         - TRANSF. ELECTRONICA         05528             20,000.00                               1,203,471.63
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 636443  DEBIN
+         - COMPRA                      01753             74,000.00                               1,129,471.63
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 978171
+           ESTABLECIMIENTO: MERPAGO*MERCADOLIBRE
+         - PAGO SERVICIOS              00382            251,222.10                                 878,249.53
+           HSBC MOBILE OPERAC.  707624
+           SERVICIO: RBAB IDENTIFICACION: 2702311046223903602
+         - PAGO SERVICIOS              02740            305,451.58                                 572,797.95
+           HSBC MOBILE OPERAC.  443281
+           SERVICIO: SEA  IDENTIFICACION: 2311046223911046223
+         - INSTRUCCION DE PAGO         55034              4,978.34                                 567,819.61
+           C*0005011059952000005565934330531025799S.M.A.T.A. REP
+         - INSTRUCCION DE PAGO         55126              5,526.96                                 562,292.65
+           C*0005011059952000005351886030531025799S.M.A.T.A. REP
+         - INSTRUCCION DE PAGO         54909             19,913.29                                 542,379.36
+           C*0005011059952000005566016330531025799S.M.A.T.A. REP
+ 22-ENE  - TRANSF.CAJ.AUTOM C/I        00000                                  19,360.00            561,739.36
+           BCO:     CTA:50640503790              OP:902390 VARVAR FAC
+           ORIGINANTE:30711148341 TRANSPORTES ANAN SA
+         - IMP. LEY 25.413             00000                 17.14                                 561,722.22
+           D/PAGO SERVIC COMP     1045 BASE    2856,19 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 25.80                                 561,696.42
+           D/TRANSF. ELE COMP     5204 BASE    4300,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 29.87                                 561,666.55
+           D/INSTRUCCION COMP 48355034 BASE    4978,34 AL6,00P/MIL
+HOJA    13 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - IMP. LEY 25.413             00000                 30.00                                 561,636.55
+           D/TRANSF. ELE COMP     6156 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 32.16                                 561,604.39
+           D/TRANSF. ELE COMP     8215 BASE    5360,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 33.16                                 561,571.23
+           D/INSTRUCCION COMP 48355126 BASE    5526,96 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 45.90                                 561,525.33
+           D/TRANSF. ELE COMP     4664 BASE    7650,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 79.58                                 561,445.75
+           D/PAGO SERVIC COMP     1195 BASE   13264,15 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 89.21                                 561,356.54
+           D/PAGO SERVIC COMP      727 BASE   14868,62 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                119.48                                 561,237.06
+           D/INSTRUCCION COMP 48354909 BASE   19913,29 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                120.00                                 561,117.06
+           D/TRANSF. ELE COMP     5528 BASE   20000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                165.31                                 560,951.75
+           D/REG.REC. II COMP        0 BASE   27552,34 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                444.00                                 560,507.75
+           D/COMPRA      COMP     1753 BASE   74000,00 AL6,00P/MIL
+         - IMPUESTO PAIS SERV DIG      06764                589.52                                 559,918.23
+         - IMP. LEY 25.413             00000                728.25                                 559,189.98
+           C/INTERBANKIN COMP  2610890 BASE  121375,40 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,507.33                                 557,682.65
+           D/PAGO SERVIC COMP      382 BASE  251222,10 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,832.71                                 555,849.94
+           D/PAGO SERVIC COMP     2740 BASE  305451,58 AL6,00P/MIL
+         - PERCEPCION RG 4815          06764              2,210.73                                 553,639.21
+         - REG.REC. IIBB PROV          00000              3,034.39                                 550,604.82
+           IB PBA DN1/04 00L C 2610890 BASE  121375,40 A25,00P/MIL
+         - TRANSF. ELECTRONICA         04325              1,700.00                                 548,904.82
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 088391  DEBIN
+         - COMPRA                      00481              2,800.00                                 546,104.82
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 784063
+           ESTABLECIMIENTO: MERPAGO*YANFXING
+         - COMPRA                      06764              7,803.32                                 538,301.50
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 413667
+           ESTABLECIMIENTO: SCRIBD *580569335
+         - TRANSF. ELECTRONICA         03551              9,200.00                                 529,101.50
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 430329  DEBIN
+HOJA    14 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - COMPRA                      05505              9,800.00                                 519,301.50
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 753603
+           ESTABLECIMIENTO: MERPAGO*YANFXING
+         - TRANSF. ELECTRONICA         06720             10,000.00                                 509,301.50
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 697044  DEBIN
+         - COMPRA                      09285             10,375.00                                 498,926.50
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 770314
+           ESTABLECIMIENTO: MERPAGO*ANABELA
+         - COMPRA                      07699             11,500.00                                 487,426.50
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 482424
+           ESTABLECIMIENTO: MERCPAGO*MERCADOLIBRE
+         - PAGO SERVICIOS              06304             17,882.25                                 469,544.25
+           HSBC MOBILE OPERAC.  432769
+           SERVICIO: ENOR IDENTIFICACION: 009319885236
+         - TRANSF. ELECTRONICA         08368             20,000.00                                 449,544.25
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 668598  DEBIN
+         - TRANSF. ELECTRONICA         08662             22,571.00                                 426,973.25
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 897362  DEBIN
+         - COMPRA                      06509             95,000.00                                 331,973.25
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 852342
+           ESTABLECIMIENTO: MERCPAGO*MERCADOLIBRE
+         - COMPRA                      01210            147,739.20                                 184,234.05
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 804138
+           ESTABLECIMIENTO: MERPAGO*MERCADOLIBRE
+ 23-ENE  - DEPOSITO CHEQUES            48300                                 720,000.00            904,234.05
+         - IMP. LEY 25.413             00000                  3.54                                 904,230.51
+           D/IMPUESTO PA COMP     6764 BASE     589,52 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 10.20                                 904,220.31
+           D/TRANSF. ELE COMP     4325 BASE    1700,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 13.26                                 904,207.05
+           D/PERCEPCION  COMP     6764 BASE    2210,73 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 16.80                                 904,190.25
+           D/COMPRA      COMP      481 BASE    2800,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 18.21                                 904,172.04
+           D/REG.REC. II COMP        0 BASE    3034,39 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 46.82                                 904,125.22
+           D/COMPRA      COMP     6764 BASE    7803,32 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 55.20                                 904,070.02
+           D/TRANSF. ELE COMP     3551 BASE    9200,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 58.80                                 904,011.22
+           D/COMPRA      COMP     5505 BASE    9800,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                                 903,951.22
+HOJA    15 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           D/TRANSF. ELE COMP     6720 BASE   10000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 62.25                                 903,888.97
+           D/COMPRA      COMP     9285 BASE   10375,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 69.00                                 903,819.97
+           D/COMPRA      COMP     7699 BASE   11500,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                107.29                                 903,712.68
+           D/PAGO SERVIC COMP     6304 BASE   17882,25 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                116.16                                 903,596.52
+           C/TRANSF.CAJ. COMP 88000000 BASE   19360,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                120.00                                 903,476.52
+           D/TRANSF. ELE COMP     8368 BASE   20000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                135.43                                 903,341.09
+           D/TRANSF. ELE COMP     8662 BASE   22571,00 AL6,00P/MIL
+         - IIBB SD PBA                 01709                156.07                                 903,185.02
+         - PERC IVA                    00000                261.36                                 902,923.66
+         - PERC.INGRESOS BRUTOS        00000                348.48                                 902,575.18
+         - REG.REC. IIBB PROV          00000                484.00                                 902,091.18
+           IB PBA DN1/04 00L C88000000 BASE   19360,00 A25,00P/MIL
+         - IMP. LEY 25.413             00000                570.00                                 901,521.18
+           D/COMPRA      COMP     6509 BASE   95000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                886.44                                 900,634.74
+           D/COMPRA      COMP     1210 BASE  147739,20 AL6,00P/MIL
+         - I.V.A.                      00000              1,829.52                                 898,805.22
+         - TRANSF. ELECTRONICA         03078              5,000.00                                 893,805.22
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 885436  DEBIN
+         - TRANSF. ELECTRONICA         09826              5,000.00                                 888,805.22
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 511473  DEBIN
+         - TRANSF. ELECTRONICA         06492              6,660.00                                 882,145.22
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 703832  DEBIN
+         - TRANSF. ELECTRONICA         03249              9,790.00                                 872,355.22
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 839381  DEBIN
+         - TRANSF. ELECTRONICA         02832             10,000.00                                 862,355.22
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 202586  DEBIN
+         - COM.GESTION COBRO CH        00000              8,712.00                                 853,643.22
+         - INSTRUCCION DE PAGO         87890            175,318.00                                 678,325.22
+           C*0005191005065500500115671430715710699BERARDINELLI E
+         - COM. R.CONTING.             00000                291.72                                 678,033.50
+           UTC:000000083 UTID:1500000029
+HOJA    16 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - IVA REDU.RESP.I             00000                 30.63                                 678,002.87
+           UTC:000000084 UTID:1500000030
+ 24-ENE  - IMP. LEY 25.413             00000                   .18                                 678,002.69
+           D/IVA RED.R.I COMP          BASE      30,63 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                   .94                                 678,001.75
+           D/IIBB SD PBA COMP     1709 BASE     156,07 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  1.57                                 678,000.18
+           D/PERC IVA    COMP          BASE     261,36 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  1.75                                 677,998.43
+           D/RIESGO CONT COMP          BASE     291,72 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  2.09                                 677,996.34
+           D/PERC.INGRES COMP          BASE     348,48 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  2.90                                 677,993.44
+           D/REG.REC. II COMP        0 BASE     484,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 10.98                                 677,982.46
+           D/I.V.A.      COMP          BASE    1829,52 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                                 677,952.46
+           D/TRANSF. ELE COMP     3078 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                                 677,922.46
+           D/TRANSF. ELE COMP     9826 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 39.96                                 677,882.50
+           D/TRANSF. ELE COMP     6492 BASE    6660,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 52.27                                 677,830.23
+           D/COM.GESTION COMP          BASE    8712,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 58.74                                 677,771.49
+           D/TRANSF. ELE COMP     3249 BASE    9790,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                                 677,711.49
+           D/TRANSF. ELE COMP     2832 BASE   10000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,051.91                                 676,659.58
+           D/INSTRUCCION COMP 48387890 BASE  175318,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              4,320.00                                 672,339.58
+           C/DEPOSITO CH COMP 30348300 BASE  720000,00 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000             18,000.00                                 654,339.58
+           IB PBA DN1/04 00L C30348300 BASE  720000,00 A25,00P/MIL
+         - TRANSF. ELECTRONICA         01972              2,500.00                                 651,839.58
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 197101  DEBIN
+         - TRANSF. ELECTRONICA         09673              4,535.00                                 647,304.58
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 897049  DEBIN
+         - TRANSF. ELECTRONICA         02107              5,000.00                                 642,304.58
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 331347  DEBIN
+HOJA    17 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - TRANSF. ELECTRONICA         05817              5,000.00                                 637,304.58
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 047365  DEBIN
+         - COMPRA                      03408              9,710.00                                 627,594.58
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 919690
+           ESTABLECIMIENTO: OPESSA MAR DE AJ BOXES
+         - COMPRA CASH BACK            04522             11,359.00                                 616,235.58
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 928339
+           ESTABLECIMIENTO: OPESSA MAR DE AJ BOXES
+         - PAGO SERVICIOS              05602             20,000.00                                 596,235.58
+           HSBC MOBILE OPERAC.  193411
+           SERVICIO: TLCT IDENTIFICACION: 92673651
+ 25-ENE  - DEP CH 24 HS AUTOSERV       71712                                 227,669.11            823,904.69
+           ECHEQ
+         - TRANSF.CAJ.AUTOM C/I        02977                                  95,674.70            919,579.39
+           BCO:     CTA:1500018300006832517714   OP:354641 VAR
+           ORIGINANTE:33715378189 INOQUA SA          CREDIN
+         - IMP. LEY 25.413             00000                 15.00                                 919,564.39
+           D/TRANSF. ELE COMP     1972 BASE    2500,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 27.21                                 919,537.18
+           D/TRANSF. ELE COMP     9673 BASE    4535,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                                 919,507.18
+           D/TRANSF. ELE COMP     2107 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                                 919,477.18
+           D/TRANSF. ELE COMP     5817 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 58.26                                 919,418.92
+           D/COMPRA      COMP     3408 BASE    9710,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 68.15                                 919,350.77
+           D/COMPRA CASH COMP     4522 BASE   11359,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                108.00                                 919,242.77
+           D/REG.REC. II COMP        0 BASE   18000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                120.00                                 919,122.77
+           D/PAGO SERVIC COMP     5602 BASE   20000,00 AL6,00P/MIL
+         - COMPRA                      99932                399.00                                 918,723.77
+           TARJETA DE DEBITO Nø XXXXXXXXXXXX     OPERACION: 599932
+           ESTABLECIMIENTO: TELECENTRO
+         - TRANSF. ELECTRONICA         00067              2,500.00                                 916,223.77
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 203585  DEBIN
+         - COMPRA                      02501              2,787.98                                 913,435.79
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 247080
+           ESTABLECIMIENTO: MERPAGO*YPF
+         - TRANSF. ELECTRONICA         09300             10,000.00                                 903,435.79
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 831926  DEBIN
+HOJA    18 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - TRANSF. ELECTRONICA         02884             12,033.74                                 891,402.05
+           CAJ.AUTOM.A CBU    0168888100008247880816 OPE: 661307  DEBIN
+         - COMPRA                      07691             16,000.00                                 875,402.05
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 044430
+           ESTABLECIMIENTO: ROLYNS TV
+         - COMPRA CASH BACK            03239             30,017.90                                 845,384.15
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 285766
+           ESTABLECIMIENTO: OSLE
+         - COMPRA                      01596             40,000.00                                 805,384.15
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 275301
+           ESTABLECIMIENTO: OSLE
+         - COMPRA                      07070             44,541.53                                 760,842.62
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 280724
+           ESTABLECIMIENTO: OSLE
+         - COMPRA                      08678             45,501.63                                 715,340.99
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 284110
+           ESTABLECIMIENTO: OSLE
+         - COMPRA                      09746             90,000.00                                 625,340.99
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 317753
+           ESTABLECIMIENTO: DON ANGEL
+ 26-ENE  - IMP. LEY 25.413             00000                  2.39                                 625,338.60
+           D/COMPRA      COMP   599932 BASE     399,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 15.00                                 625,323.60
+           D/TRANSF. ELE COMP       67 BASE    2500,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 16.73                                 625,306.87
+           D/COMPRA      COMP     2501 BASE    2787,98 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 60.00                                 625,246.87
+           D/TRANSF. ELE COMP     9300 BASE   10000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 72.20                                 625,174.67
+           D/TRANSF. ELE COMP     2884 BASE   12033,74 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 96.00                                 625,078.67
+           D/COMPRA      COMP     7691 BASE   16000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                180.11                                 624,898.56
+           D/COMPRA CASH COMP     3239 BASE   30017,90 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                240.00                                 624,658.56
+           D/COMPRA      COMP     1596 BASE   40000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                267.25                                 624,391.31
+           D/COMPRA      COMP     7070 BASE   44541,53 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                273.01                                 624,118.30
+           D/COMPRA      COMP     8678 BASE   45501,63 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                540.00                                 623,578.30
+           D/COMPRA      COMP     9746 BASE   90000,00 AL6,00P/MIL
+HOJA    19 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - IMP. LEY 25.413             00000                574.05                                 623,004.25
+           C/TRANSF.CAJ. COMP     2977 BASE   95674,70 AL6,00P/MIL
+         - IMP. LEY 25.413             00000              1,366.01                                 621,638.24
+           C/DEP CH 24 H COMP  2371712 BASE  227669,11 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              2,391.87                                 619,246.37
+           IB PBA DN1/04 00L C    2977 BASE   95674,70 A25,00P/MIL
+         - REG.REC. IIBB PROV          00000              5,691.73                                 613,554.64
+           IB PBA DN1/04 00L C 2371712 BASE  227669,11 A25,00P/MIL
+         - TRANSF. ELECTRONICA         01207              3,000.00                                 610,554.64
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 035270  DEBIN
+ 29-ENE  - TRANSF.CAJ.AUTOM C/I        00000                                   5,000.00            615,554.64
+           BCO:     CTA:51440502148              OP:922324 VARVAR VARIO
+           ORIGINANTE:30711345090 TRANSPORTES E G D SRL
+         - IMP. LEY 25.413             00000                 14.35                                 615,540.29
+           D/REG.REC. II COMP        0 BASE    2391,87 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 18.00                                 615,522.29
+           D/TRANSF. ELE COMP     1207 BASE    3000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 34.15                                 615,488.14
+           D/REG.REC. II COMP        0 BASE    5691,73 AL6,00P/MIL
+         - PAGO SERVICIOS              09378              2,725.78                                 612,762.36
+           HSBC MOBILE OPERAC.  839820
+           SERVICIO: GSNT IDENTIFICACION: 23097310
+         - PAGO SERVICIOS              08591              3,528.96                                 609,233.40
+           HSBC MOBILE OPERAC.  156498
+           SERVICIO: AYSA IDENTIFICACION: 0001530965
+         - COMPRA                      04814              4,000.00                                 605,233.40
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 707041
+           ESTABLECIMIENTO: DIA TIENDA 5388
+         - COMPRA                      05391              4,000.00                                 601,233.40
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 708550
+           ESTABLECIMIENTO: DIA TIENDA 5388
+         - PAGO SERVICIOS              09451              6,766.85                                 594,466.55
+           HSBC MOBILE OPERAC.  844658
+           SERVICIO: AYSA IDENTIFICACION: 0001229403
+         - TRANSF. ELECTRONICA         05705              9,115.43                                 585,351.12
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 890246  DEBIN
+         - PAGO SERVICIOS              09023             10,364.23                                 574,986.89
+           HSBC MOBILE OPERAC.  349400
+           SERVICIO: ENOR IDENTIFICACION: 004004360617
+         - PAGO SERVICIOS              08783             13,089.12                                 561,897.77
+           HSBC MOBILE OPERAC.  314513
+           SERVICIO: ENOR IDENTIFICACION: 004235544725
+         - PAGO SERVICIOS              09267             16,630.00                                 545,267.77
+HOJA    20 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+           HSBC MOBILE OPERAC.  014692
+           SERVICIO: UNEV IDENTIFICACION: 1002628608310001
+         - PAGO SERVICIOS              08935             17,544.36                                 527,723.41
+           HSBC MOBILE OPERAC.  581765
+           SERVICIO: MVSR IDENTIFICACION: 0420076491559
+         - PAGO SERVICIOS              00405             21,120.00                                 506,603.41
+           HSBC MOBILE OPERAC.  993051
+           SERVICIO: CBVS IDENTIFICACION: 39315986
+         - COMPRA                      07113             23,275.26                                 483,328.15
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 191954
+           ESTABLECIMIENTO: 3SM*SORIENTE SUPERS
+         - COMPRA                      01414             32,394.00                                 450,934.15
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 954873
+           ESTABLECIMIENTO: REGISTRO AUTOMOTOR
+         - PAGO SERVICIOS              09997             58,228.63                                 392,705.52
+           HSBC MOBILE OPERAC.  406931
+           SERVICIO: SEA  IDENTIFICACION: 2311046223911046223
+         - COMPRA                      06905            100,000.00                                 292,705.52
+           TARJETA DE DEBITO N  4517615979411066 OPERACION: 189957
+           ESTABLECIMIENTO: 3SM*SORIENTE SUPERS
+         - INSTRUCCION DE PAGO         72371            144,476.51                                 148,229.01
+           C*0005072003978800003619489020145739978INGINO RAFAEL
+ 30-ENE  - TRANSF.CAJ.AUTOM C/I        01348                                  84,700.00            232,929.01
+           BCO:     CTA:1500018300006832517714   OP:372049 VAR
+           ORIGINANTE:20273332406 CARLOS ANDRES RIVE CREDIN
+         - TRANSF.CAJ.AUTOM C/I        00000                                 132,495.00            365,424.01
+           BCO:     CTA:50640503790              OP:367415 VARVAR FACTU
+           ORIGINANTE:30711148341 TRANSPORTES ANAN SA
+         - TRANSF.CAJ.AUTOM C/I        00000                                 280,000.00            645,424.01
+           BCO:     CTA:072003720794             OP:483156 VARVARVarios
+           ORIGINANTE:20288805262 RIGONI/MARTIN A
+         - IMP. LEY 25.413             00000                 16.35                                 645,407.66
+           D/PAGO SERVIC COMP     9378 BASE    2725,78 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 21.17                                 645,386.49
+           D/PAGO SERVIC COMP     8591 BASE    3528,96 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 24.00                                 645,362.49
+           D/COMPRA      COMP     4814 BASE    4000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 24.00                                 645,338.49
+           D/COMPRA      COMP     5391 BASE    4000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 30.00                                 645,308.49
+           C/TRANSF.CAJ. COMP 68000000 BASE    5000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 40.60                                 645,267.89
+           D/PAGO SERVIC COMP     9451 BASE    6766,85 AL6,00P/MIL
+HOJA    21 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - IMP. LEY 25.413             00000                 54.69                                 645,213.20
+           D/TRANSF. ELE COMP     5705 BASE    9115,43 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 62.19                                 645,151.01
+           D/PAGO SERVIC COMP     9023 BASE   10364,23 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 78.53                                 645,072.48
+           D/PAGO SERVIC COMP     8783 BASE   13089,12 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                 99.78                                 644,972.70
+           D/PAGO SERVIC COMP     9267 BASE   16630,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                105.27                                 644,867.43
+           D/PAGO SERVIC COMP     8935 BASE   17544,36 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000                125.00                                 644,742.43
+           IB PBA DN1/04 00L C68000000 BASE    5000,00 A25,00P/MIL
+         - IMP. LEY 25.413             00000                126.72                                 644,615.71
+           D/PAGO SERVIC COMP      405 BASE   21120,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                139.65                                 644,476.06
+           D/COMPRA      COMP     7113 BASE   23275,26 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                194.36                                 644,281.70
+           D/COMPRA      COMP     1414 BASE   32394,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                349.37                                 643,932.33
+           D/PAGO SERVIC COMP     9997 BASE   58228,63 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                600.00                                 643,332.33
+           D/COMPRA      COMP     6905 BASE  100000,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                866.86                                 642,465.47
+           D/INSTRUCCION COMP 48472371 BASE  144476,51 AL6,00P/MIL
+         - COMPRA                      02803              1,099.00                                 641,366.47
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 613515
+           ESTABLECIMIENTO: TELECENTRO
+ 31-ENE  - INTERBANKING                01020                                 163,350.00            804,716.47
+           TIPO VARIO BCO 017 CIVIL VIAL SA                 30709231800
+           C*0006                      30709231800CIVIL VIAL SA
+         - TRANSF.CAJ.AUTOM C/I        03792                                 100,000.00            904,716.47
+           BCO:     CTA:1500018300006832517714   OP:184879 VAR
+           ORIGINANTE:20232346192 Horacio Javier Fer CREDIN
+         - IMP. LEY 25.413             00000                   .75                                 904,715.72
+           D/REG.REC. II COMP        0 BASE     125,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                  6.59                                 904,709.13
+           D/COMPRA      COMP     2803 BASE    1099,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                508.20                                 904,200.93
+           C/TRANSF.CAJ. COMP     1348 BASE   84700,00 AL6,00P/MIL
+         - IMP. LEY 25.413             00000                794.97                                 903,405.96
+           C/TRANSF.CAJ. COMP 68000000 BASE  132495,00 AL6,00P/MIL
+HOJA    22 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - SALDO FINAL                                                                             711,559.82
+ PRODUCTO                    NRO. CUENTA              ACUERDO         TNA        ALTA ACUERDO    VENC. ACUERDO
+         - SALDO FINAL                                                                                 306.39
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - SALDO ANTERIOR                                                                                0.43         - IMP. LEY 25.413             00000              1,680.00                                 901,725.96
+           C/TRANSF.CAJ. COMP 40000000 BASE  280000,00 AL6,00P/MIL
+         - REG.REC. IIBB PROV          00000              2,117.50                                 899,608.46
+           IB PBA DN1/04 00L C    1348 BASE   84700,00 A25,00P/MIL
+         - REG.REC. IIBB PROV          00000              3,312.38                                 896,296.08
+           IB PBA DN1/04 00L C68000000 BASE  132495,00 A25,00P/MIL
+         - REG.REC. IIBB PROV          00000              7,000.00                                 889,296.08
+           IB PBA DN1/04 00L C40000000 BASE  280000,00 A25,00P/MIL
+         - TRANSF. ELECTRONICA         09465              1,000.00                                 888,296.08
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 177365  DEBIN
+         - TRANSF. ELECTRONICA         02316              1,500.00                                 886,796.08
+           CAJ.AUTOM.A CBU    3220001805000054570077 OPE: 687256  DEBIN
+         - COMPRA                      02950              8,608.37                                 878,187.71
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 341676
+           ESTABLECIMIENTO: TELECENTRO
+         - COMPRA                      07009            166,627.89                                 711,559.82
+           TARJETA DE DEBITO N  4569360000147317 OPERACION: 296639
+           ESTABLECIMIENTO: MERPAGO*AUTOVIA
+                                           - RESUMEN DE ACUERDOS -
+ CUENTA CORRIENTE  $        0683-25177-1            70,000.00       154.57 %     14 DIC, 2023     13 JUN, 2024
+         NO HUBO NINGUNA ACTIVIDAD DURANTE EL PERIODO DEL EXTRACTO
+                                           - DETALLE DE OPERACIONES -
+ 02-ENE  - DEB.AUTOMATICO              29038                   .43                                       0.00
+           TC MASTERCARD     TARJETAS   CLIENTE: 0310349304809
+           FACT:
+ 12-ENE  - TRANSF. E/CTAS.             02255                                 120,000.00            120,000.00
+           ORIGINANTE:23110462239 MONTIEL, JUAN ALBERTO
+         - PRESTAMOS                   00000            106,434.65                                  13,565.35
+           PTMO ALS: 01080068000000000002396638
+         - DEB.AUTOMATICO              09099             13,565.35                                       0.00 _____________________________________________________________________________________________________________
+                                   CAJA DE AHORRO EN U$S NRO.   068-8-23173-6
+                                   CAJA DE AHORRO EN $ NRO.     068-6-21882-9
+HOJA    23 DE    25
+    0063667-T
+ FECHA              REFERENCIA           NRO               DEBITO              CREDITO                 SALDO
+         - SALDO FINAL                                                                               1,998.56
+                                            - DETALLE DE INTERESES -
+ NRO. PRESTAMO  N.CUOTA  MONEDA    IMPORTE    TNA    TASA        TEA         VTO        CTA. A DEBITAR
+                                       DETALLE DE COMPOSICION DE CUOTAS
+ NRO. PRESTAMO         CAPITAL        INTERES   CARGO SEG.VIDA    COM ADMIN           IIBB(2)
+ IDENTIFICACION   SALDO IMPAGO(1)   IVA S/INT(2) OT.IMP.C.BIEN  IVA S/CARGO         IVA S/COM       IVA AD(2)           TC MASTERCARD     TARJETAS   CLIENTE: 0310349304809
+           FACT:
+ 19-ENE  - TRANSF. E/CTAS.             07256                                 800,000.00            800,000.00
+           ORIGINANTE:23110462239 MONTIEL, JUAN ALBERTO
+         - EXT. POR CAJA               08208            800,000.00                                       0.00
+ 23-ENE  - REINT CARNICERI             12340                                   1,040.00              1,040.00
+         - REINT CARNICERI             08051                                     960.00              2,000.00
+ 24-ENE  - INGRESOS BRUTOS             50259                  1.44                                   1,998.56
+           P.PENDIENTE II.BB RBB
+ Interés acumulado este año                                       0.00
+ Ultimo pago de intereses                                         0.00
+ Interés devengado a la fecha                                     0.02
+ CUENTA 068-3-25177-1 TOTAL IMPUESTO LEY 25413               DEBITADO   EN 01-2024          $       60.857,91
+                        SOBRE DEBITOS  ALICUOTA 6,00 POR MIL DEBITADO   EN 01-2024          $       27.572,16
+                        SOBRE CREDITOS ALICUOTA 6,00 POR MIL DEBITADO   EN 01-2024          $       33.285,75
+ CUENTA 068-3-25177-1 TOTAL REG RECAUDAC. IB PBA DN 1/04          DEBITADO   EN 01-2024     $      138.690,68
+                        CREDITO ART. 13 DTO 380/01 Y MODIF.             EN 01-2024          $       20.083,11*
+ CUENTA 068-3-25177-1 TOTAL PERC. RG.AFIP 4815                    DEBITADO   EN 01-2024     $        2.210,73
+                       (*)CONFIRMAR COMPUTO SEGUN DTO. 409/18
+ CUENTA 068-6-21882-9 TOTAL REG RECAUDACION IB PBA DN 1/04   DEBITADO   EN 01-2024 :       $            1,44
+  000002396638  021/048    $     105.400,88   35,00  FIJA      41,2075   11/03/2024     068-6-00218829
+  000002396638       46.092,16      51.128,21              ,00             ,00        045,13           ,00
+  PERSONAL                             5.368,46                              ,00           ,00        766,92
+ACLARACIONES: TNA    : TASA NOMINAL ANUAL  - TEA: TASA EFECTIVA ANUAL
+              CFT C/I: COSTO FINANCIERO TOTAL CON IMPUESTOS EXPRESADO EN TEA
+              CFT S/I: COSTO FINANCIERO TOTAL SIN IMPUESTOS EXPRESADO EN TEA _____________________________________________________________________________________________________________
+                                              DETALLE DE IMPUESTOS
+                               DETALLE DE CUOTAS DE PRESTAMOS PROXIMOS A VENCER
+  CFT C/I    46,90
+  CFT S/I    41,69
+Refinanciación de saldo impago T.O. COVID19 BCRA/Congelamiento monto de cuota.
+(1)El valor se compone del saldo de capital más intereses de la cuota impaga.
+Para Prendario UVA/Hipotecario 1er vivienda incluye diferencia por congelamiento monto de cuota DNU 319/2020 +
+HOJA    24 DE    25
+    0063667-T
+ CUENTA          DESCRIPCION-PRODUCTO        REFERENCIA                                   IMPORTE
+ NRO. CUENTA       APELLIDO Y NOMBRE                            IDENTIFICACION CA  0686218829  PART.PENDIENTE DE COBR      000001066-2341426545     20231213          14.352,80
+ 068-8-23173-6     MONTIEL, JUAN ALBERTO                        CUIT/CUIL/CIE  23-11046223-9
+ 0683-25177-1      MONTIEL, JUAN ALBERTO                        CUIT/CUIL/CIE  23-11046223-9
+                   MORALES, DANIELA DE LOS ANGELES              CUIT/CUIL/CIE  23-40663944-4
+ 068-6-21882-9     MONTIEL, JUAN ALBERTO                        CUIT/CUIL/CIE  23-11046223-9
+                   MORALES, DANIELA DE LOS ANGELES              CUIT/CUIL/CIE  23-40663944-4
+ Los movimientos informados en la sección DETALLE DE OPERACIONES se reflejan con su fecha de ejecución,
+ mientras que los indicados en la sección CALCULO DE INTERESES POR DESCUBIERTO lo hacen con su "Fecha
+ Valor", fecha a partir de la cual comienzan a devengar intereses, a favor o en contra.
+ Por este motivo, los saldos de cierre del día pueden no coincidir para ambas secciones. ____________________________________________________________________________________________________________                                        CONCEPTOS PENDIENTES DE COBRO
+                                      DETALLE DE TITULARIDAD DE CUENTASModificatorias. (2)El valor se calcula sobre los intereses expuestos en esta liquidación más los intereses de
+la cuota vencida e impaga.
+ CALCULO DE INTERESES POR DESCUBIERTO
+HOJA    25 DE    25
+    0063667-T
+REGIMEN DE GARANTIAS DE DEPOSITOS
+Los depósitos en pesos y en moneda extranjera cuentan con la garantía de hasta $ 6.000.000. En las operaciones
+a nombre de dos o más personas, la garantía se prorrateará entre sus titulares. En ningún caso, el total de
+la garantía por persona y por depósito, podrá exceder de $ 6.000.000, cualquiera sea el número de cuentas y
+depósitos. Ley 24.485, Decreto 540
+Se encuentran excluidos los captados a tasas superiores a la de referencia conforme a los límites establecidos
+por el Banco Central, los adquiridos por endoso y los efectuados por personas vinculadas a la entidad finan-
+ciera.
+FONDOS COMUNES DE INVERSION
+"Las inversiones en cuotas del Fondo no constituyen depósitos en HSBC Bank Argentina S. A. a los fines de la
+Ley de Entidades Financieras ni cuentan con ninguna de las garantías que tales depósitos a la vista o a plazo
+puedan gozar de acuerdo con la legislación y reglamentación aplicables en materia de depósitos en las entida-
+des financieras. Asimismo, HSBC Bank Argentina S. A. se encuentra impedido por normas del B.C.R.A. de asumir,
+tácita o expresamente, compromiso alguno en cuanto al mantenimiento, en cualquier momento, del valor del capi-
+tal invertido, al rendimiento, al valor de rescate de las cuotapartes o al otorgamiento de liquidez a tal fin
+(Comunicación "A" 3027 B.C.R.A.)".
+DEBITOS AUTOMATICOS, PAGO DIRECTO Y TRANSFERENCIAS ELECTRONICAS
+Este resumen certifica el pago de los servicios que figuran detallados en el presente, que usted realiza me-
+diante los débitos automáticos efectuados en su cuenta, siendo éste un elemento válido para ser presentado an-
+te la empresa respectiva, a fin de verificar el pago de sus servicios con débito en cuenta, salvo que exista
+una anulación sobre la operación que indique lo contrario.
+IMPUESTO LEY 25.413
+Se deja constancia que el monto discriminado de créditos y débitos, cobrados por aplicación del impuesto
+Ley 25.413, se consigna a título meramente informativo.
+Se sugiere la validación de los importes, con los correspondientes movimientos individuales cobrados.
+El cómputo del importe correspondiente por parte del titular, como crédito de otros impuestos, es responsabi-
+lidad exclusiva del titular.
+Las devoluciones y cobros manuales del impuesto Ley 25.413 deberán ser verificadas con el extracto para deter-
+minar si corresponden a devoluciones o cobros sobre débitos o sobre créditos.
+LEY 2709 DE CABA
+Conforme Ley 2709 de CABA, modificatoria de la Ley 2221 de CABA, comunicamos que puede efectuar reclamos y
+consultas en forma personal, en su sucursal ubicada en CABA, en horario bancario.
+Consulte el listado de sucursales en nuestra página www.hsbc.com.ar.
+PRESTAMOS PRENDARIOS
+Si usted es Cliente de un Préstamo Prendario para Uso Particular, el importe de la cuota informada es el
+resultante del cálculo a la fecha de emisión del presente resumen. Consecuentemente el importe indicado
+podrá sufrir modificaciones a la fecha de vencimiento, en virtud de la posible variación de la suma en
+la que se encuentre asegurado el bien prendado.
+A todo evento ante cualquier consulta se encuentran a su disposición los siguientes medios para contac-
+tarse con nosotros: Call centre, 0810-333-4722, si es cliente de PC Banking de HSBC ingrese a
+www.hsbc.com.ar; o  bien en cualquiera de nuestras sucursales.
+CUENTAS SUELDO
+Si usted es cliente que acredita su sueldo en HSBC y cuenta con condiciones especiales sobre sus productos y
+transacciones, en caso de no recibir acreditaciones de haberes durante tres meses consecutivos, sus comisiones
+se adecuaran a las vigentes en HSBC Bank Argentina S.A.
